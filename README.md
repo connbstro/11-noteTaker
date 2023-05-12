@@ -10,7 +10,7 @@ This is an application called Note Taker that can be used to write, save, and de
 
 ## **Webpage:**
 
-(https://notetakermod11.herokuapp.com/notes)
+(https://notetakermod11.herokuapp.com/)
 
 <img width="1509" alt="Screenshot 2023-05-12 at 1 07 06 PM" src="https://github.com/connbstro/11-noteTaker/assets/117555071/dbf16f0d-0cb1-4e6a-9ff6-accf00e72204">
 
